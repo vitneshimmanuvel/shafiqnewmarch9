@@ -1,0 +1,7 @@
+{
+  "name": "Electronic Hospital",
+  "description": "Premium mobile repair pickup service platform with AI-powered issue detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
