@@ -1,4 +1,5 @@
 {
+  "_comment": "Vercel configuration for build and routing",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
